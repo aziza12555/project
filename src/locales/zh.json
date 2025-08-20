@@ -1,0 +1,34 @@
+{
+  "card": {
+    "seeAllOffers": "查看所有优惠",
+    "first": {
+      "title": "与我们分享您的意见",
+      "description": "评价您的体验，帮助我们变得更好。",
+      "button": "美国价格"
+    },
+    "second": {
+      "title": "11 种秘密配料",
+      "description": "让我们的食物与众不同的原因。",
+      "button": "发现它们"
+    }
+  },
+    "footer": {
+    "infoLinks": {
+      "history": "历史",
+      "ingredients": "11 种配料！",
+      "allergens": "过敏原与营养",
+      "stores": "门店",
+      "halal": "清真"
+    },
+    "helpLinks": {
+      "contact": "联系我们",
+      "jobs": "在 KFC 工作",
+      "terms": "条款与条件"
+    },
+    "accountLinks": {
+      "login": "登录",
+      "register": "注册",
+      "forgotPassword": "忘记密码"
+    }
+  }
+}

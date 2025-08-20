@@ -1,0 +1,34 @@
+{
+  "card": {
+    "seeAllOffers": "Tüm Teklifleri Gör",
+    "first": {
+      "title": "Bize kendi görüşünüzü bildirin",
+      "description": "Deneyiminizi değerlendirin ve bize daha iyi olmamızda yardımcı olun.",
+      "button": "ABD FİYATI"
+    },
+    "second": {
+      "title": "11 gizli malzeme",
+      "description": "Yemeklerimizi özel kılan şey.",
+      "button": "KEŞFEDİN"
+    }
+  },
+    "footer": {
+    "infoLinks": {
+      "history": "Tarih",
+      "ingredients": "11 bileşen!",
+      "allergens": "Alerjenler ve Besin Değerleri",
+      "stores": "Mağazalar",
+      "halal": "Helal"
+    },
+    "helpLinks": {
+      "contact": "Bizimle iletişime geçin",
+      "jobs": "KFC'de iş",
+      "terms": "Şartlar ve Koşullar"
+    },
+    "accountLinks": {
+      "login": "Giriş Yap",
+      "register": "Kayıt Ol",
+      "forgotPassword": "Şifremi unuttum"
+    }
+  }
+}

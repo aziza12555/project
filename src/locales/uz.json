@@ -1,0 +1,39 @@
+{
+  "card": {
+    "seeAllOffers": "Barcha Takliflarni Ko'rish",
+    "first": {
+      "title": "Bizga o'zingizning fikringizni bildiring",
+      "description": "Biz bilan tajribangizni baholang va bizga yaxshiroq bo'lishga yordam bering.",
+      "button": "AQSH NARXI"
+    },
+    "second": {
+      "title": "11 tarkibiy mahsulotlar",
+      "description": "Oziq-ovqatimizni o'zgacha qiladigan narsa.",
+      "button": "ULARNI KASH ETING"
+    }
+  },
+    "footer": {
+    "info": "Ma’lumot",
+    "help": "Yordam kerakmi?",
+    "account": "Hisob",
+    "privacy": "Maxfiylik siyosati",
+    "copyright": "© KFC UZ 2025",
+    "infoLinks": {
+      "history": "Tarix",
+      "ingredients": "11 tarkibiy mahsulotlar!",
+      "allergens": "Allergenlar & To‘yimli",
+      "stores": "Do‘konlar",
+      "halal": "HALAL"
+    },
+    "helpLinks": {
+      "contact": "Biz bilan bog‘lanish",
+      "jobs": "KFC’ga ishga qabul qilish",
+      "terms": "Shartlar va shartlar"
+    },
+    "accountLinks": {
+      "login": "Tizimga kirish",
+      "register": "Ro‘yxatdan o‘tish",
+      "forgotPassword": "Parolni unutdim"
+    }
+  }
+}

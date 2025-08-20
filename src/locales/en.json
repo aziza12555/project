@@ -1,0 +1,39 @@
+{
+  "card": {
+    "seeAllOffers": "See All Offers",
+    "first": {
+      "title": "Share your opinion with us",
+      "description": "Rate your experience with us and help us improve.",
+      "button": "US PRICE"
+    },
+    "second": {
+      "title": "11 secret ingredients",
+      "description": "What makes our food unique.",
+      "button": "DISCOVER THEM"
+    }
+  },
+  "footer": {
+    "info": "Information",
+    "help": "Need help?",
+    "account": "Account",
+    "privacy": "Privacy Policy",
+    "copyright": "© KFC UZ 2025",
+    "infoLinks": {
+      "history": "History",
+      "ingredients": "11 secret ingredients!",
+      "allergens": "Allergens & Nutrition",
+      "stores": "Stores",
+      "halal": "HALAL"
+    },
+    "helpLinks": {
+      "contact": "Contact Us",
+      "jobs": "Careers at KFC",
+      "terms": "Terms and Conditions"
+    },
+    "accountLinks": {
+      "login": "Login",
+      "register": "Register",
+      "forgotPassword": "Forgot Password"
+    }
+  }
+}
